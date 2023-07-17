@@ -33,8 +33,7 @@
 
 ---
 ### :man_technologist: About Me :
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&pause=1000&color=D12DF7&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%9B%D0%9E%D0%96%D0%AC&width=900&height=20&lines=My+name+is+Egor%2C+I'm+a+beginner+python+backend+developer%2C+I+love+to+code+and+learn+something+new." alt="Typing SVG" /></a>
+My name is Egor, I'm a beginner python backend developer, I love to code and learn something new.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :selfie: Study at [IT college](https://singularity.academy/)
 - :snake: Main language is Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">
 --- 
