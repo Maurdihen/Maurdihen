@@ -29,6 +29,12 @@
 
 <div id="banner" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32%" height="40%"/>
+  <h1>
+  Quote for the day:
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  </h1>
+  
 </div>
 
 ---
